@@ -36,7 +36,7 @@ class Chart extends StatelessWidget {
         margin: EdgeInsets.only(
             left: 20,
             top: constraints.maxHeight * 0.1,
-            right: 20,
+            right: 40,
             bottom: constraints.maxHeight * 0.08),
         child: Container(
           height: double.infinity,
